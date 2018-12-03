@@ -1,5 +1,5 @@
 ---
-title: 'Chapter Title Here'
+title: Introduction
 description: 'Chapter description goes here.'
 ---
 
